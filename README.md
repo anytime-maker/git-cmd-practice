@@ -4,7 +4,7 @@
 + (완료) COMMIT
 + (완료) PUSH
 + MERGE
-+ RESET
-+ TAG
-+ REVERT
++ (완료) RESET
++ (완료) TAG
++ (완료) REVERT
  
